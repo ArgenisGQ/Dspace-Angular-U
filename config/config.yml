@@ -2,9 +2,12 @@ rest:
   #ssl: true
   #host: api7.dspace.org
   #port: 443
+<<<<<<< HEAD
 
   #ssl: false
   #host: slmdeveaduny.uny.edu.ve
   #port: 8080
 
+=======
+>>>>>>> c89ed38e3a93c3d84e4c3f4eeff24482b6492bbe
   nameSpace: /server
